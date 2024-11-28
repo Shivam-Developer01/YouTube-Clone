@@ -1,4 +1,4 @@
-export const API_KEY = 'AIzaSyBtlNVpvBAUKKR-k_hOOO549Ti_FF51nT8';
+export const API_KEY = Your_Google_Api_Key;
 
 export const value_converter = (value) => {
     if(value>=1000000){
